@@ -1,0 +1,5 @@
+aiogram==3.22.0
+aiohttp==3.12.15
+aiosqlite==0.21.0
+Telethon==1.45.0
+base58==2.1.1
